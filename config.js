@@ -2,10 +2,10 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'V2EX',
+  SiteName: 'JK',
 
   // 站点链接
-  SiteUrl: 'https://www.v2ex.com/',
+  SiteUrl: 'https://jk-five.vercel.app/',
 
   // UptimeRobot Api 域名
   // 只需填写域名部分，默认为官网域名
