@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'Public Status',
+  SiteName: 'JK',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
@@ -20,15 +20,7 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://status.org.cn/'
+      url: '#'
     },
-    {
-      text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
-    },
-    {
-      text: 'Blog',
-      url: 'https://abo.xyz/'
-    },
-  ],
+     ],
 };
